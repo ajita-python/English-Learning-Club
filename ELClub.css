@@ -1,0 +1,23 @@
+.Background4{
+    background: url("./Background4.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+.third{
+    color: white;
+    background-color:black;
+}
+#card1 {
+    background-color: black;
+}
+h3{
+    color: rgba(17, 16, 0, 0.76);
+}
+#Book{
+    color: black;
+}
+h1{
+    color: rgb(143, 28, 8);
+}
+h2{
+    color: rgb(138, 5, 76);
+}
